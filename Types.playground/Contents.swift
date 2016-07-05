@@ -15,4 +15,7 @@ let seventhPlanet = "Uranus"
 let numberOfCountriesInAfrica = 54
 
 let numberOfMoonsOfSaturn = 62
+
+ninthPlanet = "new planet"
+
 print("There are \(numberOfMoonsOfSaturn) moons orbiting \(sixthPlanet)")
